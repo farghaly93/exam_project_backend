@@ -1,0 +1,43 @@
+{
+  "name": "farghaly-shop",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --host 0.0.0.0",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@codekraft-studio/vue-record": "0.0.3",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.13.0",
+    "chart.js": "^2.9.3",
+    "core-js": "^3.6.4",
+    "jquery": "^3.5.1",
+    "material-design-icons-iconfont": "^5.0.1",
+    "popper.js": "^1.16.1",
+    "socket.io-client": "^2.3.0",
+    "vue": "^2.6.11",
+    "vue-chartjs": "^3.5.1",
+    "vue-html-to-paper": "^1.3.0",
+    "vue-media-recorder": "^0.1.25",
+    "vue-moment": "^4.1.0",
+    "vue-router": "^3.1.5",
+    "vuelidate": "^0.7.5",
+    "vuetify": "^2.2.11",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.2.0",
+    "@vue/cli-plugin-pwa": "~4.2.0",
+    "@vue/cli-plugin-router": "~4.2.0",
+    "@vue/cli-plugin-vuex": "~4.2.0",
+    "@vue/cli-service": "~4.2.0",
+    "node-sass": "^4.12.0",
+    "sass": "^1.19.0",
+    "sass-loader": "^8.0.2",
+    "vue-cli-plugin-vuetify": "~2.0.5",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify-loader": "^1.3.0"
+  }
+}
